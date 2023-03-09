@@ -1,1 +1,1 @@
-print("I THINK I GOT IT")
+print("I GOT IT")
